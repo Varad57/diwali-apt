@@ -1,0 +1,15 @@
+Package: diwali
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Depends: bash, ncurses-bin
+Filename: ./diwali_1.0_all.deb
+Size: 3024
+MD5sum: f128f109df01719af67ae91ed75c152b
+SHA1: f7605667300a6292034408cdccf0a633db3c3283
+SHA256: 40a945899b1dcb563580cf6d4825e7f5d36b158b947c842404d80e0248672ce8
+Section: games
+Priority: optional
+Description: Diwali fireworks and lights in your terminal
+ Type diwali to see firecrackers, twinkling lights and a Happy Diwali greeting.
+
